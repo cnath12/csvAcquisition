@@ -1,0 +1,13 @@
+pandas
+psycopg2-binary
+sqlalchemy
+schedule
+configparser
+Flask==2.0.1
+apscheduler==3.7.0
+croniter
+python-crontab==2.5.1
+requests
+Werkzeug==2.2.2
+kafka-python
+chardet
